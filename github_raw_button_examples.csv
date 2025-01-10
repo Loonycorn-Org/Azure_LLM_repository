@@ -1,0 +1,11 @@
+File Name,File Type,Raw Button Available
+example.py,Python script,Yes
+data.json,JSON data file,Yes
+config.yaml,YAML configuration file,Yes
+notes.txt,Plain text file,Yes
+document.pdf,PDF document,No
+image.png,Image file,No
+spreadsheet.xlsx,Excel spreadsheet,No
+code.java,Java code file,Yes
+readme.md,Markdown file,Yes
+binary.bin,Binary file,No
